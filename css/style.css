@@ -9,7 +9,7 @@
     flex-direction: row;
     justify-content: space-around;
     align-content: space-around;
-    background-color: hotpink;
+    background-color: midnightblue;
 }
 
 .touch {
@@ -34,11 +34,11 @@
 }
 
 #erase {
-    background-color: red;
+    background-color:  silver;
 }
 
 #parenthesis , #parenthesis2 , #multiplication , #substraction , #copy , #equal , #comma , #pourcent , #addition {
-    background-color: mediumpurple;
+    background-color: magenta;
 }
 
 #one , #two , #three , #four , #five , #six , #seven , #height , #nine , #zero {
